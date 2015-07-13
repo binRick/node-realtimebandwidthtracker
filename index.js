@@ -85,7 +85,6 @@ module.exports.Watch = function(CB) {
                     //                clear();
                     Stats.ipRates = Stats.ipRates;
                     Stats.ipRates = _.sortBy(Stats.ipRates, 'mbps');
-                    console.log(Stats);
                     CB(Stats);
                     /*
                                     console.log(JSON.stringify(Stats));
