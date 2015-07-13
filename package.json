@@ -1,0 +1,27 @@
+{
+  "name": "node-realtimebandwidthtracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/binRick/node-realtimebandwidthtracker"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/binRick/node-realtimebandwidthtracker/issues"
+  },
+  "homepage": "https://github.com/binRick/node-realtimebandwidthtracker",
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "clear": "0.0.1",
+    "prettyjson": "^1.1.2",
+    "trim": "0.0.1",
+    "underscore": "^1.8.3",
+    "watchr": "^2.4.13"
+  }
+}
